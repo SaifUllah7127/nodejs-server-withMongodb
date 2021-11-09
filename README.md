@@ -1,2 +1,2 @@
-****#Server is live Here********
+# Server Link
 https://saif-server-2.herokuapp.com/users
